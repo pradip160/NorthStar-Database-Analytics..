@@ -1,0 +1,6 @@
+journey_id,customer_id,driver_id,vehicle_id,city_zone,delivery_status,delay_minutes,revenue,cost
+J00001,C0001,D001,V001,Central,Delayed,25,120,80
+J00002,C0002,D002,V002,North,Completed,0,90,60
+J00003,C0003,D003,V003,South,Failed,55,75,95
+J00004,C0004,D004,V004,East,Delayed,35,110,70
+J00005,C0005,D005,V005,West,Completed,-5,100,65
